@@ -1,0 +1,63 @@
+about:
+  description: KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
+  license: Apache-2.0
+  homepage: https://kcl-lang.io
+  head: 555185a
+  archived: false
+  latestVersion: v0.11.2
+  collectedAt: 2026-08-30T05:18:24Z
+timeline:
+  created: 2022-05-05
+  lastCommit: 2026-08-29
+  lastRelease: 2025-04-18
+popularity:
+  star: 2405
+  watcher: 14
+  fork: 169
+  release: 78
+  contributor: 56
+  pullRequest: 81
+  issue: 734
+language:
+  Rust: 4102819
+  KCL: 374371
+  C: 35220
+  KFramework: 4018
+  Makefile: 2554
+  Shell: 2414
+  PowerShell: 1129
+  Fluent: 368
+totalLine: 4522893
+recent:
+  last30d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 30
+    openPR: 4
+    closedIssue: 4
+    openIssue: 0
+    commit: 35
+  last90d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 42
+    openPR: 4
+    closedIssue: 7
+    openIssue: 1
+    commit: 45
+  last180d:
+    since: 2026-03-03
+    release: 0
+    mergedPR: 56
+    openPR: 4
+    closedIssue: 15
+    openIssue: 3
+    commit: 60
+  last360d:
+    since: 2025-09-04
+    release: 0
+    mergedPR: 99
+    openPR: 4
+    closedIssue: 37
+    openIssue: 7
+    commit: 105
