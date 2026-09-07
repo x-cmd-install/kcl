@@ -5,13 +5,13 @@ about:
   head: 07b88a3
   archived: false
   latestVersion: "v0.11.2"
-  collectedAt: 2026-09-07T04:47:57Z
+  collectedAt: 2026-09-07T19:39:08Z
 timeline:
   created: 2022-05-05
   lastCommit: 2026-09-02
   lastRelease: 2025-04-18
 popularity:
-  star: 2409
+  star: 2408
   watcher: 14
   fork: 169
   release: 78
@@ -86,7 +86,7 @@ total:
   commit: 1325
 ---
 path: /home/runner/.x-repo/github.com/kcl-lang/kcl
-collectedAt: 2026-09-07T04:48:01Z
+collectedAt: 2026-09-07T19:39:11Z
 loc:
   Rust:
     code: 114010
@@ -167,7 +167,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:48:02+00:00
+  collectedAt: 2026-09-07T19:39:15+00:00
   platform:
     darwin/arm64:
       name:  kclvm-v0.11.2-darwin-arm64.tar.gz
