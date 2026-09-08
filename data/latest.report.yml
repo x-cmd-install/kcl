@@ -5,7 +5,7 @@ about:
   head: 07b88a3
   archived: false
   latestVersion: "v0.11.2"
-  collectedAt: 2026-09-08T02:04:53Z
+  collectedAt: 2026-09-08T04:51:28Z
 timeline:
   created: 2022-05-05
   lastCommit: 2026-09-02
@@ -86,7 +86,7 @@ total:
   commit: 1325
 ---
 path: /home/runner/.x-repo/github.com/kcl-lang/kcl
-collectedAt: 2026-09-08T02:04:58Z
+collectedAt: 2026-09-08T04:51:32Z
 loc:
   Rust:
     code: 114010
