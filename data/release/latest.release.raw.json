@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 8557263,
       "digest": null,
-      "download_count": 2985,
+      "download_count": 2991,
       "created_at": "2025-04-18T15:16:14Z",
       "updated_at": "2025-04-18T15:16:19Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.11.2/kclvm-v0.11.2-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 8491263,
       "digest": null,
-      "download_count": 4313,
+      "download_count": 4321,
       "created_at": "2025-04-18T15:16:26Z",
       "updated_at": "2025-04-18T15:16:29Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.11.2/kclvm-v0.11.2-darwin-arm64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 9005658,
       "digest": null,
-      "download_count": 8728,
+      "download_count": 8767,
       "created_at": "2025-04-18T15:16:36Z",
       "updated_at": "2025-04-18T15:16:38Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.11.2/kclvm-v0.11.2-linux-amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 9339798,
       "digest": null,
-      "download_count": 3366,
+      "download_count": 3373,
       "created_at": "2025-04-19T02:59:41Z",
       "updated_at": "2025-04-19T02:59:46Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.11.2/kclvm-v0.11.2-linux-arm64.tar.gz"
