@@ -4,7 +4,7 @@
 
 KCL Programming Language Core and API (CNCF Sandbox Project). https://kcl-lang.io
 
-[![x-cmd/install — kcl Code Quality Monitoring Repo Card](https://repo.x-cmd.io/kcl.svg)](https://x-cmd.com/install/kcl)
+[![x-cmd/install — kcl Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/kcl.svg)](https://x-cmd.com/install/kcl)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **160,957** lines of code across **3312** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,416 · **Forks**: 170 · **Open issues**: 733 · **Contributors**: 57
+- **Stars**: 2,417 · **Forks**: 170 · **Open issues**: 733 · **Contributors**: 57
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **160,957** lines of code across **3312** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 49 | 0 | 2 | 0 | 40 |
-| last60d | 2026-07-24 | 0 | 62 | 0 | 5 | 0 | 64 |
-| 90d | 2026-06-24 | 0 | 66 | 0 | 8 | 1 | 71 |
-| last180d | 2026-03-26 | 0 | 80 | 0 | 12 | 1 | 85 |
-| 360d | 2025-09-27 | 0 | 127 | 0 | 38 | 3 | 134 |
-| last720d | 2024-10-02 | 11 | 234 | 0 | 190 | 8 | 245 |
+| 30d | 2026-08-24 | 0 | 47 | 0 | 1 | 0 | 40 |
+| last60d | 2026-07-25 | 0 | 62 | 0 | 5 | 0 | 64 |
+| 90d | 2026-06-25 | 0 | 66 | 0 | 7 | 1 | 71 |
+| last180d | 2026-03-27 | 0 | 80 | 0 | 12 | 1 | 85 |
+| 360d | 2025-09-28 | 0 | 127 | 0 | 38 | 3 | 134 |
+| last720d | 2024-10-03 | 11 | 234 | 0 | 190 | 8 | 245 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for kcl lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:08:02Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:56:05Z._
