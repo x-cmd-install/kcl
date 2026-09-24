@@ -38,22 +38,22 @@ Total: **160,957** lines of code across **3312** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,417 · **Forks**: 170 · **Open issues**: 733 · **Contributors**: 57
+- **Stars**: 2,417 · **Forks**: 170 · **Open issues**: 734 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 78 · **Merged PRs**: 1247 · **Open PRs**: 0 · **Closed issues**: 720 · **Open issues**: 13 · **Commits**: 1331
+- **Releases**: 78 · **Merged PRs**: 1247 · **Open PRs**: 0 · **Closed issues**: 721 · **Open issues**: 13 · **Commits**: 1331
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 47 | 0 | 1 | 0 | 40 |
-| last60d | 2026-07-25 | 0 | 62 | 0 | 5 | 0 | 64 |
-| 90d | 2026-06-25 | 0 | 66 | 0 | 7 | 1 | 71 |
-| last180d | 2026-03-27 | 0 | 80 | 0 | 12 | 1 | 85 |
-| 360d | 2025-09-28 | 0 | 127 | 0 | 38 | 3 | 134 |
-| last720d | 2024-10-03 | 11 | 234 | 0 | 190 | 8 | 245 |
+| 30d | 2026-08-25 | 0 | 47 | 0 | 1 | 0 | 40 |
+| last60d | 2026-07-26 | 0 | 61 | 0 | 5 | 0 | 64 |
+| 90d | 2026-06-26 | 0 | 66 | 0 | 6 | 1 | 71 |
+| last180d | 2026-03-28 | 0 | 80 | 0 | 12 | 1 | 85 |
+| 360d | 2025-09-29 | 0 | 127 | 0 | 38 | 3 | 134 |
+| last720d | 2024-10-04 | 11 | 234 | 0 | 191 | 8 | 245 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for kcl lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T04:56:05Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:52:46Z._
