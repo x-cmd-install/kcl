@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3967977,
       "digest": "sha256:cd4d1828a4cdc3224a99f42227bdc0e19a0dd6d97a93c297f752050b7d6f2f9b",
-      "download_count": 21,
+      "download_count": 22,
       "created_at": "2026-09-25T13:38:03Z",
       "updated_at": "2026-09-25T13:38:04Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-darwin-amd64.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3681476,
       "digest": "sha256:48ec9e765b134cf4add04ef8963442468c38bbe3f2ad8c1f0553130d7ebff7bc",
-      "download_count": 212,
+      "download_count": 221,
       "created_at": "2026-09-25T13:38:03Z",
       "updated_at": "2026-09-25T13:38:04Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-darwin-arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3948309,
       "digest": "sha256:59871434511782ed5ff23f3a2f0bf37b1fe8c5974665db1d2fd3b184fc6cac46",
-      "download_count": 83,
+      "download_count": 89,
       "created_at": "2026-09-25T20:19:17Z",
       "updated_at": "2026-09-25T20:19:19Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-linux-amd64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3636967,
       "digest": "sha256:23342fa60de1b6924fd1f429e84d0460033420c2ebd0224cca6eb8b39f963f03",
-      "download_count": 28,
+      "download_count": 30,
       "created_at": "2026-09-25T20:19:16Z",
       "updated_at": "2026-09-25T20:19:19Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-linux-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 4239889,
       "digest": "sha256:992211e116a6491cbed03dffefa328b160218fda3ccfaed51812be0140dc6898",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-09-25T13:38:03Z",
       "updated_at": "2026-09-25T13:38:04Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-windows-amd64.zip"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 7050183,
       "digest": "sha256:203fba2b36311252d202f984065f696e278acdd3742bac992315250887d646bf",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-09-25T13:38:03Z",
       "updated_at": "2026-09-25T13:38:04Z",
       "browser_download_url": "https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-amd64.tar.gz"
