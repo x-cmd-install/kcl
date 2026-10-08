@@ -14,13 +14,13 @@ x install kcl
 
 ## 代码洞察
 
-合计: **166,845** 行代码（覆盖前 5 种语言、共 **3354** 个文件）。
+合计: **167,054** 行代码（覆盖前 5 种语言、共 **3354** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 120,129 | 4,558 | 10,993 | 397 |
+| Rust | 120,307 | 4,593 | 11,004 | 397 |
 | Json | 20,181 | 0 | 2 | 216 |
-| K | 19,517 | 0 | 3,398 | 2472 |
+| K | 19,548 | 0 | 3,403 | 2472 |
 | Yaml | 3,132 | 22 | 13 | 255 |
 | Python | 1,975 | 411 | 480 | 14 |
 
@@ -32,46 +32,46 @@ x install kcl
 
 ## 发布
 
-- **最新版本**: `v0.13.0` (2026-09-25)
-- **最近提交**: 2026-10-04
+- **最新版本**: `v0.13.1` (2026-10-07)
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 2,428 · **Fork**: 170 · **开放 issue**: 734 · **贡献者**: 57
+- **Star**: 2,429 · **Fork**: 170 · **开放 issue**: 735 · **贡献者**: 57
 
 ## 累计统计
 
-- **发布数**: 79 · **已合并 PR**: 1265 · **开放 PR**: 5 · **已关闭 issue**: 724 · **开放 issue**: 10 · **提交数**: 1354
+- **发布数**: 80 · **已合并 PR**: 1268 · **开放 PR**: 0 · **已关闭 issue**: 725 · **开放 issue**: 10 · **提交数**: 1357
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 26 | 5 | 0 | 0 | 29 |
-| last60d | 2026-08-08 | 1 | 78 | 5 | 4 | 0 | 81 |
-| 90d | 2026-07-09 | 1 | 86 | 5 | 7 | 0 | 94 |
-| last180d | 2026-04-10 | 1 | 98 | 5 | 12 | 0 | 105 |
-| 360d | 2025-10-12 | 1 | 142 | 5 | 38 | 2 | 151 |
-| last720d | 2024-10-17 | 9 | 237 | 5 | 185 | 5 | 253 |
+| 30d | 2026-09-08 | 2 | 29 | 0 | 1 | 0 | 32 |
+| last60d | 2026-08-09 | 2 | 80 | 0 | 5 | 0 | 84 |
+| 90d | 2026-07-10 | 2 | 89 | 0 | 8 | 0 | 97 |
+| last180d | 2026-04-11 | 2 | 101 | 0 | 13 | 0 | 108 |
+| 360d | 2025-10-13 | 2 | 145 | 0 | 39 | 2 | 154 |
+| last720d | 2024-10-18 | 10 | 239 | 0 | 185 | 5 | 254 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [kcl-language-server-v0.13.0-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-darwin-amd64.tar.gz) | 3.8 MiB | `native/darwin/x64` |
-| [kcl-language-server-v0.13.0-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-darwin-arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
-| [kcl-language-server-v0.13.0-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-linux-amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
-| [kcl-language-server-v0.13.0-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-linux-arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
-| [kcl-language-server-v0.13.0-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-windows-amd64.zip) | 4.0 MiB | `native/win/x64` |
-| [kcl-lib-v0.13.0-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-darwin-amd64.tar.gz) | 7.1 MiB | `native/darwin/x64` |
-| [kcl-lib-v0.13.0-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-darwin-arm64.tar.gz) | 6.6 MiB | `native/darwin/arm64` |
-| [kcl-lib-v0.13.0-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
-| [kcl-lib-v0.13.0-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-arm64.tar.gz) | 6.2 MiB | `native/linux/arm64` |
-| [kcl-lib-v0.13.0-linux-musl-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-musl-amd64.tar.gz) | 10.3 MiB | `native/linux/x64/musl` |
-| [kcl-lib-v0.13.0-linux-musl-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-musl-arm64.tar.gz) | 9.9 MiB | `native/linux/arm64/musl` |
-| [kcl-lib-v0.13.0-wasm32-wasip1.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-wasm32-wasip1.tar.gz) | 3.0 MiB | `native/unknown` |
-| [kcl-lib-v0.13.0-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-windows-amd64.zip) | 7.1 MiB | `native/win/x64` |
+| [kcl-language-server-v0.13.1-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-darwin-amd64.tar.gz) | 3.8 MiB | `native/darwin/x64` |
+| [kcl-language-server-v0.13.1-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-darwin-arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [kcl-language-server-v0.13.1-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-linux-amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [kcl-language-server-v0.13.1-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-linux-arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
+| [kcl-language-server-v0.13.1-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-windows-amd64.zip) | 4.1 MiB | `native/win/x64` |
+| [kcl-lib-v0.13.1-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-darwin-amd64.tar.gz) | 7.4 MiB | `native/darwin/x64` |
+| [kcl-lib-v0.13.1-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-darwin-arm64.tar.gz) | 6.9 MiB | `native/darwin/arm64` |
+| [kcl-lib-v0.13.1-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
+| [kcl-lib-v0.13.1-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-arm64.tar.gz) | 6.5 MiB | `native/linux/arm64` |
+| [kcl-lib-v0.13.1-linux-musl-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-musl-amd64.tar.gz) | 10.7 MiB | `native/linux/x64/musl` |
+| [kcl-lib-v0.13.1-linux-musl-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-musl-arm64.tar.gz) | 10.4 MiB | `native/linux/arm64/musl` |
+| [kcl-lib-v0.13.1-wasm32-wasip1.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-wasm32-wasip1.tar.gz) | 3.3 MiB | `native/unknown` |
+| [kcl-lib-v0.13.1-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-windows-amd64.zip) | 7.5 MiB | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -82,4 +82,4 @@ kcl 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索�
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T05:57:30Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T06:07:03Z._

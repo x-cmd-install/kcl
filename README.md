@@ -14,13 +14,13 @@ x install kcl
 
 ## Code insight
 
-Total: **166,845** lines of code across **3354** files in the top 5 languages.
+Total: **167,054** lines of code across **3354** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 120,129 | 4,558 | 10,993 | 397 |
+| Rust | 120,307 | 4,593 | 11,004 | 397 |
 | Json | 20,181 | 0 | 2 | 216 |
-| K | 19,517 | 0 | 3,398 | 2472 |
+| K | 19,548 | 0 | 3,403 | 2472 |
 | Yaml | 3,132 | 22 | 13 | 255 |
 | Python | 1,975 | 411 | 480 | 14 |
 
@@ -32,46 +32,46 @@ Total: **166,845** lines of code across **3354** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.13.0` (2026-09-25)
-- **Last commit**: 2026-10-04
+- **Latest**: `v0.13.1` (2026-10-07)
+- **Last commit**: 2026-10-07
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 2,428 · **Forks**: 170 · **Open issues**: 734 · **Contributors**: 57
+- **Stars**: 2,429 · **Forks**: 170 · **Open issues**: 735 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 79 · **Merged PRs**: 1265 · **Open PRs**: 5 · **Closed issues**: 724 · **Open issues**: 10 · **Commits**: 1354
+- **Releases**: 80 · **Merged PRs**: 1268 · **Open PRs**: 0 · **Closed issues**: 725 · **Open issues**: 10 · **Commits**: 1357
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 1 | 26 | 5 | 0 | 0 | 29 |
-| last60d | 2026-08-08 | 1 | 78 | 5 | 4 | 0 | 81 |
-| 90d | 2026-07-09 | 1 | 86 | 5 | 7 | 0 | 94 |
-| last180d | 2026-04-10 | 1 | 98 | 5 | 12 | 0 | 105 |
-| 360d | 2025-10-12 | 1 | 142 | 5 | 38 | 2 | 151 |
-| last720d | 2024-10-17 | 9 | 237 | 5 | 185 | 5 | 253 |
+| 30d | 2026-09-08 | 2 | 29 | 0 | 1 | 0 | 32 |
+| last60d | 2026-08-09 | 2 | 80 | 0 | 5 | 0 | 84 |
+| 90d | 2026-07-10 | 2 | 89 | 0 | 8 | 0 | 97 |
+| last180d | 2026-04-11 | 2 | 101 | 0 | 13 | 0 | 108 |
+| 360d | 2025-10-13 | 2 | 145 | 0 | 39 | 2 | 154 |
+| last720d | 2024-10-18 | 10 | 239 | 0 | 185 | 5 | 254 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [kcl-language-server-v0.13.0-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-darwin-amd64.tar.gz) | 3.8 MiB | `native/darwin/x64` |
-| [kcl-language-server-v0.13.0-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-darwin-arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
-| [kcl-language-server-v0.13.0-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-linux-amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
-| [kcl-language-server-v0.13.0-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-linux-arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
-| [kcl-language-server-v0.13.0-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-language-server-v0.13.0-windows-amd64.zip) | 4.0 MiB | `native/win/x64` |
-| [kcl-lib-v0.13.0-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-darwin-amd64.tar.gz) | 7.1 MiB | `native/darwin/x64` |
-| [kcl-lib-v0.13.0-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-darwin-arm64.tar.gz) | 6.6 MiB | `native/darwin/arm64` |
-| [kcl-lib-v0.13.0-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-amd64.tar.gz) | 6.7 MiB | `native/linux/x64` |
-| [kcl-lib-v0.13.0-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-arm64.tar.gz) | 6.2 MiB | `native/linux/arm64` |
-| [kcl-lib-v0.13.0-linux-musl-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-musl-amd64.tar.gz) | 10.3 MiB | `native/linux/x64/musl` |
-| [kcl-lib-v0.13.0-linux-musl-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-linux-musl-arm64.tar.gz) | 9.9 MiB | `native/linux/arm64/musl` |
-| [kcl-lib-v0.13.0-wasm32-wasip1.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-wasm32-wasip1.tar.gz) | 3.0 MiB | `native/unknown` |
-| [kcl-lib-v0.13.0-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.0/kcl-lib-v0.13.0-windows-amd64.zip) | 7.1 MiB | `native/win/x64` |
+| [kcl-language-server-v0.13.1-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-darwin-amd64.tar.gz) | 3.8 MiB | `native/darwin/x64` |
+| [kcl-language-server-v0.13.1-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-darwin-arm64.tar.gz) | 3.5 MiB | `native/darwin/arm64` |
+| [kcl-language-server-v0.13.1-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-linux-amd64.tar.gz) | 3.8 MiB | `native/linux/x64` |
+| [kcl-language-server-v0.13.1-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-linux-arm64.tar.gz) | 3.5 MiB | `native/linux/arm64` |
+| [kcl-language-server-v0.13.1-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-language-server-v0.13.1-windows-amd64.zip) | 4.1 MiB | `native/win/x64` |
+| [kcl-lib-v0.13.1-darwin-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-darwin-amd64.tar.gz) | 7.4 MiB | `native/darwin/x64` |
+| [kcl-lib-v0.13.1-darwin-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-darwin-arm64.tar.gz) | 6.9 MiB | `native/darwin/arm64` |
+| [kcl-lib-v0.13.1-linux-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-amd64.tar.gz) | 7.1 MiB | `native/linux/x64` |
+| [kcl-lib-v0.13.1-linux-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-arm64.tar.gz) | 6.5 MiB | `native/linux/arm64` |
+| [kcl-lib-v0.13.1-linux-musl-amd64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-musl-amd64.tar.gz) | 10.7 MiB | `native/linux/x64/musl` |
+| [kcl-lib-v0.13.1-linux-musl-arm64.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-linux-musl-arm64.tar.gz) | 10.4 MiB | `native/linux/arm64/musl` |
+| [kcl-lib-v0.13.1-wasm32-wasip1.tar.gz](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-wasm32-wasip1.tar.gz) | 3.3 MiB | `native/unknown` |
+| [kcl-lib-v0.13.1-windows-amd64.zip](https://github.com/kcl-lang/kcl/releases/download/v0.13.1/kcl-lib-v0.13.1-windows-amd64.zip) | 7.5 MiB | `native/win/x64` |
 
 ## Improve this data
 
@@ -82,4 +82,4 @@ Install metadata for kcl lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T05:57:30Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T06:07:03Z._
