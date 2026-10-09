@@ -14,13 +14,13 @@ x install kcl
 
 ## Code insight
 
-Total: **167,054** lines of code across **3354** files in the top 5 languages.
+Total: **167,320** lines of code across **3356** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 120,307 | 4,593 | 11,004 | 397 |
+| Rust | 120,570 | 4,613 | 11,026 | 397 |
 | Json | 20,181 | 0 | 2 | 216 |
-| K | 19,548 | 0 | 3,403 | 2472 |
+| K | 19,551 | 0 | 3,403 | 2474 |
 | Yaml | 3,132 | 22 | 13 | 255 |
 | Python | 1,975 | 411 | 480 | 14 |
 
@@ -33,27 +33,27 @@ Total: **167,054** lines of code across **3354** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.1` (2026-10-07)
-- **Last commit**: 2026-10-07
+- **Last commit**: 2026-10-09
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 2,429 · **Forks**: 170 · **Open issues**: 735 · **Contributors**: 57
+- **Stars**: 2,431 · **Forks**: 170 · **Open issues**: 736 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 1268 · **Open PRs**: 0 · **Closed issues**: 725 · **Open issues**: 10 · **Commits**: 1357
+- **Releases**: 80 · **Merged PRs**: 1269 · **Open PRs**: 0 · **Closed issues**: 726 · **Open issues**: 10 · **Commits**: 1358
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-08 | 2 | 29 | 0 | 1 | 0 | 32 |
-| last60d | 2026-08-09 | 2 | 80 | 0 | 5 | 0 | 84 |
-| 90d | 2026-07-10 | 2 | 89 | 0 | 8 | 0 | 97 |
-| last180d | 2026-04-11 | 2 | 101 | 0 | 13 | 0 | 108 |
-| 360d | 2025-10-13 | 2 | 145 | 0 | 39 | 2 | 154 |
-| last720d | 2024-10-18 | 10 | 239 | 0 | 185 | 5 | 254 |
+| 30d | 2026-09-09 | 2 | 30 | 0 | 2 | 0 | 33 |
+| last60d | 2026-08-10 | 2 | 79 | 0 | 6 | 0 | 85 |
+| 90d | 2026-07-11 | 2 | 90 | 0 | 9 | 0 | 98 |
+| last180d | 2026-04-12 | 2 | 101 | 0 | 14 | 0 | 109 |
+| 360d | 2025-10-14 | 2 | 146 | 0 | 40 | 2 | 155 |
+| last720d | 2024-10-19 | 10 | 240 | 0 | 186 | 5 | 254 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for kcl lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261008.yml` · 2026-10-08T06:07:03Z._
+_Snapshot: `data/card/261009.yml` · 2026-10-09T06:09:50Z._
