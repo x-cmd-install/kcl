@@ -33,27 +33,27 @@ Total: **167,320** lines of code across **3356** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.1` (2026-10-07)
-- **Last commit**: 2026-10-09
+- **Last commit**: 2026-10-13
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 2,429 · **Forks**: 170 · **Open issues**: 736 · **Contributors**: 57
+- **Stars**: 2,428 · **Forks**: 170 · **Open issues**: 736 · **Contributors**: 57
 
 ## Totals (cumulative)
 
-- **Releases**: 80 · **Merged PRs**: 1269 · **Open PRs**: 0 · **Closed issues**: 726 · **Open issues**: 10 · **Commits**: 1358
+- **Releases**: 80 · **Merged PRs**: 1271 · **Open PRs**: 0 · **Closed issues**: 726 · **Open issues**: 10 · **Commits**: 1360
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 2 | 30 | 0 | 2 | 0 | 31 |
-| last60d | 2026-08-14 | 2 | 74 | 0 | 4 | 0 | 80 |
-| 90d | 2026-07-15 | 2 | 90 | 0 | 9 | 0 | 97 |
-| last180d | 2026-04-16 | 2 | 101 | 0 | 13 | 0 | 108 |
-| 360d | 2025-10-18 | 2 | 146 | 0 | 40 | 2 | 155 |
-| last720d | 2024-10-23 | 9 | 231 | 0 | 184 | 5 | 246 |
+| 30d | 2026-09-14 | 2 | 32 | 0 | 2 | 0 | 33 |
+| last60d | 2026-08-15 | 2 | 75 | 0 | 4 | 0 | 82 |
+| 90d | 2026-07-16 | 2 | 92 | 0 | 9 | 0 | 99 |
+| last180d | 2026-04-17 | 2 | 102 | 0 | 13 | 0 | 110 |
+| 360d | 2025-10-19 | 2 | 148 | 0 | 40 | 2 | 157 |
+| last720d | 2024-10-24 | 9 | 229 | 0 | 183 | 5 | 247 |
 
 ## Release assets
 
@@ -82,4 +82,4 @@ Install metadata for kcl lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:00:42Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:00:11Z._
