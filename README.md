@@ -48,12 +48,12 @@ Total: **168,712** lines of code across **3363** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 3 | 22 | 1 | 3 | 1 | 38 |
-| last60d | 2026-08-26 | 3 | 74 | 1 | 4 | 1 | 88 |
-| 90d | 2026-07-27 | 3 | 93 | 1 | 8 | 1 | 104 |
-| last180d | 2026-04-28 | 3 | 109 | 1 | 14 | 1 | 119 |
-| 360d | 2025-10-30 | 3 | 154 | 1 | 41 | 3 | 166 |
-| last720d | 2024-11-04 | 8 | 229 | 1 | 171 | 6 | 245 |
+| 30d | 2026-09-26 | 2 | 19 | 1 | 3 | 1 | 19 |
+| last60d | 2026-08-27 | 3 | 69 | 1 | 4 | 1 | 47 |
+| 90d | 2026-07-28 | 3 | 92 | 1 | 8 | 1 | 102 |
+| last180d | 2026-04-29 | 3 | 109 | 1 | 14 | 1 | 119 |
+| 360d | 2025-10-31 | 3 | 154 | 1 | 41 | 3 | 165 |
+| last720d | 2024-11-05 | 8 | 228 | 1 | 170 | 6 | 243 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for kcl lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T04:45:54Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T04:49:38Z._
