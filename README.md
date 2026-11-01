@@ -14,11 +14,11 @@ x install kcl
 
 ## Code insight
 
-Total: **170,610** lines of code across **3390** files in the top 5 languages.
+Total: **171,343** lines of code across **3392** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 123,501 | 4,686 | 11,196 | 401 |
+| Rust | 124,227 | 4,688 | 11,245 | 403 |
 | Json | 20,181 | 0 | 2 | 216 |
 | K | 19,888 | 0 | 3,453 | 2504 |
 | Yaml | 3,132 | 22 | 13 | 255 |
@@ -33,7 +33,7 @@ Total: **170,610** lines of code across **3390** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.2` (2026-10-19)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-01
 - **Assets in release**: 14
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **170,610** lines of code across **3390** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 81 · **Merged PRs**: 1295 · **Open PRs**: 5 · **Closed issues**: 733 · **Open issues**: 13 · **Commits**: 1384
+- **Releases**: 81 · **Merged PRs**: 1296 · **Open PRs**: 4 · **Closed issues**: 733 · **Open issues**: 13 · **Commits**: 1385
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 31 | 5 | 9 | 3 | 34 |
-| last60d | 2026-09-01 | 3 | 56 | 5 | 9 | 3 | 62 |
-| 90d | 2026-08-02 | 3 | 107 | 5 | 14 | 3 | 117 |
-| last180d | 2026-05-04 | 3 | 125 | 5 | 20 | 3 | 135 |
-| 360d | 2025-11-05 | 3 | 171 | 5 | 47 | 5 | 182 |
-| last720d | 2024-11-10 | 7 | 243 | 5 | 174 | 8 | 255 |
+| 30d | 2026-10-02 | 2 | 32 | 4 | 9 | 3 | 28 |
+| last60d | 2026-09-02 | 3 | 55 | 4 | 9 | 3 | 60 |
+| 90d | 2026-08-03 | 3 | 108 | 4 | 14 | 3 | 117 |
+| last180d | 2026-05-05 | 3 | 125 | 4 | 19 | 3 | 135 |
+| 360d | 2025-11-06 | 3 | 172 | 4 | 47 | 5 | 183 |
+| last720d | 2024-11-11 | 7 | 244 | 4 | 174 | 8 | 256 |
 
 ## Release assets
 
@@ -83,4 +83,4 @@ Install metadata for kcl lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T05:36:48Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T06:09:04Z._
